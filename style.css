@@ -75,22 +75,22 @@ header {
 
     0%,
     20% {
-        background-image: url(../index.html/fantasy-g33133a90d_1920.jpg);
+        background-image: url(fantasy-g33133a90d_1920.jpg);
     }
 
     25%,
     45% {
-        background-image: url(../index.html/branden-skeli-r4YWfVVwTQ8-unsplash.jpg);
+        background-image: url(branden-skeli-r4YWfVVwTQ8-unsplash.jpg);
     }
 
     50%,
     70% {
-        background-image: url(../index.html/castle-gaef0b8b8d_1920.jpg);
+        background-image: url(castle-gaef0b8b8d_1920.jpg);
     }
 
     75%,
     100% {
-        background-image: url(../index.html/florian-olivo-Mf23RF8xArY-unsplash.jpg);
+        background-image: url(florian-olivo-Mf23RF8xArY-unsplash.jpg);
     }
 }
 
@@ -111,7 +111,7 @@ header {
 }
 
 .info h1 {
-    color: #fff;
+    color: #d26f6f;
     font-size: 45px;
     margin-bottom: 20px;
     letter-spacing: 1px;
